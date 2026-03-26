@@ -14,4 +14,4 @@ hola
 Utiliza compuertas and y or 
 
 ## External hardware
-no
+no 
